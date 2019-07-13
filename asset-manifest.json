@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/contact-app/static/css/main.34de6062.chunk.css",
+    "main.js": "/contact-app/static/js/main.9c6bcaf9.chunk.js",
+    "main.js.map": "/contact-app/static/js/main.9c6bcaf9.chunk.js.map",
+    "runtime~main.js": "/contact-app/static/js/runtime~main.46338a14.js",
+    "runtime~main.js.map": "/contact-app/static/js/runtime~main.46338a14.js.map",
+    "static/css/2.266e55a5.chunk.css": "/contact-app/static/css/2.266e55a5.chunk.css",
+    "static/js/2.5c8b99a5.chunk.js": "/contact-app/static/js/2.5c8b99a5.chunk.js",
+    "static/js/2.5c8b99a5.chunk.js.map": "/contact-app/static/js/2.5c8b99a5.chunk.js.map",
+    "index.html": "/contact-app/index.html",
+    "precache-manifest.99038480c10fd0b97c6bb8e71c4b400c.js": "/contact-app/precache-manifest.99038480c10fd0b97c6bb8e71c4b400c.js",
+    "service-worker.js": "/contact-app/service-worker.js",
+    "static/css/2.266e55a5.chunk.css.map": "/contact-app/static/css/2.266e55a5.chunk.css.map",
+    "static/css/main.34de6062.chunk.css.map": "/contact-app/static/css/main.34de6062.chunk.css.map"
+  }
+}
